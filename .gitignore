@@ -1,3 +1,4 @@
 blah.py
 *.txt
 linkScraper
+.ipynb_checkpoints/*
